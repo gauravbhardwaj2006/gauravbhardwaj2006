@@ -1,0 +1,8 @@
+body {background-color:white;}
+p {color:black;font-family:Calibri;}
+h1 {color:black}
+h2 {color:black}
+a:link{color:skyblue}
+a:visited{color:cornflowerblue;}
+a:hover{color:white;text-decoration-color=white}
+a:active{color:greenyellow}
